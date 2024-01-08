@@ -8,26 +8,28 @@
 
 
 
-| ## Certifications |   |
+## Certifications
+| Pentest+          | Certified Cloud Security Practitioner (CCSP)      |
 | --- | ---|
-| Pentest+        | CCSP        |
-| CySA+           | SSCP        |
-
+| CySA+             | Systems Security Certified Practitioner (SSCP)       |
+| Security+         | ITIL 4 Foundations |
+| Network+          | CSAP
+| Project+          | CSIS
+| A+                | CIOS
 ---
 
 ### Current Projects
 
 #### Home Automation Server
-##### Proxmox server running home automation, data storage, media decoder, and more.
+Proxmox server running home automation, data storage, media decoder, and more.
 
 
 #### Cybersecurity Home Lab
-
-##### Virtualized network running Windows environment monitored using ELK Stack, and pentested using Kali Linux
+Virtualized network running Windows environment monitored using ELK Stack, and pentested using Kali Linux
 
 
 #### Kubernetes Cluster
-##### Three-node Kubernetes cluster running as Docker containers
+Three-node Kubernetes cluster running as Docker containers
 
 
 <!--
