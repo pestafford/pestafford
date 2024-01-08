@@ -1,12 +1,17 @@
 # Phil Stafford
 ### Information Technology Professional specializing in cyber security.
 
+## Professional Work
+
+IT Consultant, 2020-present
+IT Manager, 2009-2020
+Apple Genius, 2008-2009
+Helpdesk Agent II, Sony, 2006-2008
+
 ## Education
 
 - Enrolled in Master's Program, Cyber Security and Information Assurance, Western Governors University
 - Bachelor's in Science, Cyber Security and Information Assurance, Western Governors University
-
-
 
  ## Certifications
 |         |        |
