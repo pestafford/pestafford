@@ -1,7 +1,17 @@
 # Phil Stafford
 ### Information Technology Professional specializing in cyber security.
 
-### Projects
+## Education
+
+- Enrolled in Master's Program, Cyber Security and Information Assurance, Western Governors University
+- Bachelor's in Science, Cyber Security and Information Assurance, Western Governors University
+
+## Certifications
+| Pentest+        | CCSP        |
+| CySA+           | SSCP        |
+
+
+### Current Projects
 
 #### Home Automation Server
 ##### Proxmox server running home automation, data storage, media decoder, and more.
