@@ -6,10 +6,14 @@
 - Enrolled in Master's Program, Cyber Security and Information Assurance, Western Governors University
 - Bachelor's in Science, Cyber Security and Information Assurance, Western Governors University
 
-## Certifications
+
+
+| ## Certifications |   |
+| --- | ---|
 | Pentest+        | CCSP        |
 | CySA+           | SSCP        |
 
+---
 
 ### Current Projects
 
