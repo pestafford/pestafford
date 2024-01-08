@@ -8,14 +8,14 @@
 
 
 
-## Certifications
-| Pentest+          | Certified Cloud Security Practitioner (CCSP)      |
+| ## Certifications| --- |
 | --- | ---|
-| CySA+             | Systems Security Certified Practitioner (SSCP)       |
-| Security+         | ITIL 4 Foundations |
-| Network+          | CSAP
-| Project+          | CSIS
-| A+                | CIOS
+| Pentest+              | Certified Cloud Security Practitioner (CCSP)      |
+| CySA+                 | Systems Security Certified Practitioner (SSCP)       |
+| Security+             | ITIL 4 Foundations |
+| Network+              | CSAP
+| Project+              | CSIS
+| A+                    | CIOS
 ---
 
 ### Current Projects
