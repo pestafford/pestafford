@@ -9,7 +9,7 @@
 
 
  ## Certifications
-
+|         |        |
 | --- | ---|
 | Pentest+              | Certified Cloud Security Practitioner (CCSP)      |
 | CySA+                 | Systems Security Certified Practitioner (SSCP)       |
