@@ -27,7 +27,7 @@
 
 ### Current Projects
 
-#### Home Automation Server
+#### [Home Automation Server](../infosec-projects/Home-Automation.md)
 Proxmox server running home automation, data storage, media decoder, and more.
 
 
