@@ -36,7 +36,7 @@ Virtualized network running Windows environment monitored using ELK Stack, and p
 
 
 #### Kubernetes Cluster
-Three-node Kubernetes cluster running as Docker containers
+Three-node Kubernetes cluster
 
 
 <!--
