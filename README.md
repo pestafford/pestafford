@@ -4,8 +4,8 @@
 ## Professional Work
 
 - IT Consultant, 2020-present
-- IT Director, 2015-2020
-- IT Manager, 2009-2015
+- Senior Systems Administator, 2015-2020
+- Systems Administrator, 2009-2015
 - Apple Genius, 2008-2009
 - Helpdesk Agent II, Sony, 2006-2008
 
