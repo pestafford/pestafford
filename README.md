@@ -34,9 +34,8 @@ Proxmox server running home automation, data storage, media decoder, and more.
 #### Cybersecurity Home Lab
 Virtualized network running Windows environment monitored using ELK Stack, and pentested using Kali Linux
 
-
-#### Kubernetes Cluster
-Three-node Kubernetes cluster
+#### Deploying a Virtual Office in Azure
+Deploying a secure virtual network with multiple vm endpoints
 
 
 <!--
