@@ -1,6 +1,4 @@
 # Phil Stafford
-![](images/Frenchie1.jpg)
-![](images/Frenchie2.jpg)
 ### Information Technology Professional specializing in cyber security.
 
 ## Professional Work
