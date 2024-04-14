@@ -30,13 +30,14 @@
 #### [Home Automation Server](https://github.com/pestafford/infosec-projects/blob/main/Home-Automation.md)
 Proxmox server running home automation, data storage, media decoder, and more.
 
-
 #### Cybersecurity Home Lab
 Virtualized network running Windows environment monitored using ELK Stack, and pentested using Kali Linux
 
 #### Deploying a Virtual Office in Azure
 Deploying a secure virtual network with multiple vm endpoints
 
+#### Protecting Your Network from random IoT devices.
+Detecting and Sequestering IoT devices to reduce your attack surface.
 
 <!--
 **pestafford/pestafford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
