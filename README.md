@@ -1,27 +1,14 @@
-# Phil Stafford
+# Phil Stafford 
 ### Information Technology Professional specializing in cyber security.
 
 ## Professional Work
 
 - IT Consultant, 2020-present
-
-     Assisting small businesses with Disaster Recovery and Business Continuity plans during the pandemic. Devising further plans for the post-pandemic business landscape.
 - Senior Systems Administator, 2015-2020
-
-     Administering logistics databases and mobile servers for a service business with over 300 on-site jobs and 25 concurrent employees
 - Systems Administrator, 2009-2015
-
-     Building databases and logistics structure for a rapidly growing service business with nearly 400 on-site jobs. Devising mobile solutions for sales to connect to CRM
 - Apple Genius, 2008-2009
-
-     iPad, iPhone, MacOS troubleshooting and repair
 - Helpdesk Agent II, Sony, 2006-2008
-
-     Second tier support for VAIO computers during the Vista transition.
 - Shift Supervisor, Synovate, 2000-2004
-
-     Administered multiple UNIX phone research projects for a building of over 150 employees. Scheduled entire shifts and assigned project teams. Acted as de-facto IT department once local IT was relocated to headquarters in Chicago.
-
 
 ## Education
 
@@ -31,7 +18,7 @@
  ## Certifications
 |         |        |
 | --- | ---|
-| Pentest+              | Certified Cloud Security Practitioner (CCSP)      |
+| Pentest+              | Certified Cloud Security Practitioner (CCSP)         |
 | CySA+                 | Systems Security Certified Practitioner (SSCP)       |
 | Security+             | ITIL 4 Foundations |
 | Network+              | CSAP
