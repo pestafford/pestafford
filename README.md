@@ -1,10 +1,10 @@
 # Phil Stafford 
-### Information Technology Professional specializing in cyber security.
+### Cyber Security Professional
 
 ## Professional Work
 
-- IT Consultant, 2020-present
-- Senior Systems Administator, 2015-2020
+- Information Security Consultant, 2020-present
+- Information Security Technician, 2015-2020
 - Systems Administrator, 2009-2015
 - Apple Genius, 2008-2009
 - Helpdesk Agent II, Sony, 2006-2008
