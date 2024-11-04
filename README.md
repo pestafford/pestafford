@@ -37,7 +37,6 @@ Always open to new friends. Come say hi. You’ll be glad you did.
 ## Writing
 
 [The ZombAIs are Coming](https://medium.com/@pe.stafford/the-zombais-are-coming-how-wunderwuzzis-hack-shows-the-thrilling-future-of-ai-security-fc2cf12e30d6)
-
 ---
 
 ### Current Projects
