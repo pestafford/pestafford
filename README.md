@@ -7,6 +7,10 @@ Deeply interested in AI Security (Keeping AI safe from US) and AI Safety (Keepin
 
 Always open to new friends. Come say hi. You’ll be glad you did.
 
+## Writing
+
+[The ZombAIs are Coming](https://medium.com/@pe.stafford/the-zombais-are-coming-how-wunderwuzzis-hack-shows-the-thrilling-future-of-ai-security-fc2cf12e30d6)
+
 ## Professional Work
 
 - Technical Staff II, Production @ AI Toolchain, Hacker-Fu Brands, 2024-present
