@@ -8,6 +8,7 @@ Deeply interested in AI Security (Keeping AI safe from US) and AI Safety (Keepin
 Always open to new friends. Come say hi. You’ll be glad you did.
 
 
+
 ## Professional Work
 
 - Technical Staff II, Production @ AI Toolchain, Hacker-Fu Brands, 2024-present
@@ -23,7 +24,7 @@ Always open to new friends. Come say hi. You’ll be glad you did.
 - Master's in Science, Cyber Security and Information Assurance, Western Governors University 2024-2025
 - Bachelor's in Science, Cyber Security and Information Assurance, Western Governors University 2022-2024
 
- ## Certifications
+## Industry Certifications
 |         |        |
 | --- | ---|
 | Pentest+              | Certified Cloud Security Practitioner (CCSP)         |
@@ -32,17 +33,18 @@ Always open to new friends. Come say hi. You’ll be glad you did.
 | Network+              | CSAP
 | Project+              | CSIS
 | A+                    | CIOS
----
+
 
 ## Writing
 
+## [Medium](https://medium.com/@pe.stafford/)
+  
+  - [Just One Byte: A Guide to AI Poisoning](https://medium.com/@pe.stafford/beware-the-poisoned-data-a-guide-to-ai-data-poisoning-for-the-security-savvy-2644456b1791)
+  
+  - [The ZombAIs are Coming](https://medium.com/@pe.stafford/the-zombais-are-coming-how-wunderwuzzis-hack-shows-the-thrilling-future-of-ai-security-fc2cf12e30d6)
 
-### [The ZombAIs are Coming](https://medium.com/@pe.stafford/the-zombais-are-coming-how-wunderwuzzis-hack-shows-the-thrilling-future-of-ai-security-fc2cf12e30d6)
 
-
----
-
-### Current Projects
+## Current Projects
 
 #### [Home Automation Server](https://github.com/pestafford/infosec-projects/blob/main/Home-Automation.md)
 Proxmox server running home automation, data storage, media decoder, and more.
