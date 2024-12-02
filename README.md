@@ -38,6 +38,8 @@ Always open to new friends. Come say hi. You’ll be glad you did.
 ## Writing
 
 ## [Medium](https://medium.com/@pe.stafford/)
+
+  - [AI Security vs Cybersecurity: It's the Wild West Out Here (Again)](https://medium.com/@pe.stafford/ai-security-vs-cyberrsecurity-b1265b46dd40)
   
   - [Just One Byte: A Guide to AI Poisoning](https://medium.com/@pe.stafford/beware-the-poisoned-data-a-guide-to-ai-data-poisoning-for-the-security-savvy-2644456b1791)
   
