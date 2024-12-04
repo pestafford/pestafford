@@ -11,10 +11,10 @@ Always open to new friends. Come say hi. You’ll be glad you did.
 
 ## Professional Work
 
-- Technical Staff II, Production @ AI Toolchain, Hacker-Fu Brands, 2024-present
+- Technical Staff II, Production & AI Toolchain, Hacker-Fu Brands, 2024-present
 - Principal Consultant, Information Technology & Cybersecurity, 2020-present
-- Founder & CEO | Head of IT & Infrastructure, 2015-2020
-- Founder & CEO | Head of IT & Infrastructure, 2009-2015
+- Founder & CEO | Head of IT & Infrastructure @ Balanced Earth, 2015-2020
+- Founder & CEO | Head of IT & Infrastructure @ Barefoot, 2009-2015
 - Technical Support Advisor, macOS Products @ Apple 2008-2009
 - Engineer, Information Technology Support Operations @ Sony, 2006-2008
 - IT Duty Manager, UNIX Systems @ Synovate, 2000-2004
@@ -51,17 +51,17 @@ Always open to new friends. Come say hi. You’ll be glad you did.
 #### [Home Automation Server](https://github.com/pestafford/infosec-projects/blob/main/Home-Automation.md)
 Proxmox server running home automation, data storage, media decoder, and more.
 
+#### Autonomous AI Robots
+Building autonomous robots using kitbashing and Python
+
 #### Cybersecurity Home Lab
 Virtualized network running Windows environment monitored using ELK Stack, and pentested using Kali Linux
 
-#### Secure Travel Network 
+#### Secure Travel Network for Digital Nomads
 Travel Network Solution providing security behind shared Wifi access points such as a hotel or remote office.
 
-#### Deploying a Virtual Office in Azure
-Deploying a secure virtual network with multiple vm endpoints
 
-#### Protecting Your Network from random IoT devices.
-Detecting and Sequestering IoT devices to reduce your attack surface.
+
 
 <!--
 **pestafford/pestafford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
