@@ -21,6 +21,7 @@ Always open to new friends. Come say hi. You’ll be glad you did.
 
 ## Education
 
+- AI Programming & Deployment, The Multiverse School, San Francisco 2024-2026 
 - Master's in Science, Cyber Security and Information Assurance, Western Governors University 2024-2025
 - Bachelor's in Science, Cyber Security and Information Assurance, Western Governors University 2022-2024
 
