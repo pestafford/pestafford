@@ -51,6 +51,9 @@ Always open to new friends. Come say hi. You’ll be glad you did.
 #### [Home Automation Server](https://github.com/pestafford/infosec-projects/blob/main/Home-Automation.md)
 Proxmox server running home automation, data storage, media decoder, and more.
 
+#### [Prompt Engineering using Agentic Swarms](https://github.com/pestafford/promptengineering/)
+Well-engineered prompts for various LLMs, with explanations and examples.
+
 #### Autonomous AI Robots
 Building autonomous robots using kitbashing and Python
 
