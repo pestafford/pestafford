@@ -47,26 +47,18 @@ Always open to new friends. Come say hi. You’ll be glad you did.
 
 ## Current Projects
 
-#### Distributed AI Model Training using exo - The Multiverse School
+### Distributed AI Model Training using exo - The Multiverse School
 
-#### Research Project - Alignment Faking 
+### Research Project - Alignment Faking 
 
-#### [Home Automation Server](https://github.com/pestafford/infosec-projects/blob/main/Home-Automation.md)
+### [Home Automation Server](https://github.com/pestafford/infosec-projects/blob/main/Home-Automation.md)
 Proxmox server running home automation, data storage, media decoder, and more.
 
-#### [Prompt Engineering using Agentic Swarms](https://github.com/pestafford/promptengineering/)
+### [Prompt Engineering using Agentic Swarms](https://github.com/pestafford/promptengineering/)
 Well-engineered prompts for various LLMs, with explanations and examples.
 
-#### Autonomous AI Robots
+### Autonomous AI Robots
 Building autonomous robots using kitbashing and Python
-
-#### Cybersecurity Home Lab
-Virtualized network running Windows environment monitored using ELK Stack, and pentested using Kali Linux
-
-#### Secure Travel Network for Digital Nomads
-Travel Network Solution providing security behind shared Wifi access points such as a hotel or remote office.
-
-
 
 
 <!--
