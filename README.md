@@ -11,6 +11,7 @@ Always open to new friends. Come say hi. You’ll be glad you did.
 
 ## Professional Work
 
+- AI Security Researcher & Engineer, The Multiverse School, San Francisco 2024-present
 - Technical Staff II, Production & AI Toolchain, Hacker-Fu Brands, 2024-present
 - Principal Consultant, Information Technology & Cybersecurity, 2020-present
 - Founder & CEO | Head of IT & Infrastructure @ Balanced Earth, 2015-2020
@@ -28,13 +29,10 @@ Always open to new friends. Come say hi. You’ll be glad you did.
 ## Industry Certifications
 |         |        |
 | --- | ---|
-| Pentest+              | Certified Cloud Security Practitioner (CCSP)         |
-| CySA+                 | Systems Security Certified Practitioner (SSCP)       |
-| Security+             | ITIL 4 Foundations |
-| Network+              | CSAP
-| Project+              | CSIS
-| A+                    | CIOS
-
+| Pentest+              | CloudNetX      |
+| CySA+                 | Certified Cloud Security Practitioner (CCSP)  |
+| Security+             | Systems Security Certified Practitioner (SSCP)  |
+| Network+              | 
 
 ## Writing
 
@@ -48,6 +46,10 @@ Always open to new friends. Come say hi. You’ll be glad you did.
 
 
 ## Current Projects
+
+#### Distributed AI Model Training using exo - The Multiverse School
+
+#### Research Project - Alignment Faking 
 
 #### [Home Automation Server](https://github.com/pestafford/infosec-projects/blob/main/Home-Automation.md)
 Proxmox server running home automation, data storage, media decoder, and more.
