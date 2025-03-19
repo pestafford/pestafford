@@ -28,7 +28,7 @@
 
 ## Writing
 
-## [Medium](https://medium.com/@pe.stafford/)
+## [AI Security Blog @ Medium](https://medium.com/@pe.stafford/)
 
   - [AI Security vs Cybersecurity: It's the Wild West Out Here (Again)](https://medium.com/@pe.stafford/ai-security-vs-cyberrsecurity-b1265b46dd40)
   
