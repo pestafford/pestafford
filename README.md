@@ -1,14 +1,6 @@
 # Phil Stafford 
 ### Cyber Security Professional
 
-I think big thoughts about life in the Singularity; how to stay safe and protect privacy in a post-privacy world. 
-
-Deeply interested in AI Security (Keeping AI safe from US) and AI Safety (Keeping US safe from AI). Trying to prevent Skynet and maybe get a little closer to Multivac.
-
-Always open to new friends. Come say hi. You’ll be glad you did.
-
-
-
 ## Professional Work
 
 - AI Security Researcher & Engineer, The Multiverse School, San Francisco 2024-present
