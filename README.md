@@ -18,17 +18,24 @@
 - Master's in Science, Cyber Security and Information Assurance, Western Governors University 2024-2025
 - Bachelor's in Science, Cyber Security and Information Assurance, Western Governors University 2022-2024
 
-## Industry Certifications
-|         |        |
-| --- | ---|
-| Pentest+              | CloudNetX      |
-| CySA+                 | Certified Cloud Security Practitioner (CCSP)  |
-| Security+             | Systems Security Certified Practitioner (SSCP)  |
-| Network+              | 
+## Industry Certification Highlights
+
+| CompTIA        	| ISC2                                           	|
+|----------------	|------------------------------------------------	|
+| CloudNetX      	| Certified Cloud Security Practitioner (CCSP)   	|
+| Pentest+       	| Systems Security Certified Practitioner (SSCP) 	|
+| Cysa+          	|                                                	|
+| Security+      	|                                                	|
+| Network+       	|                                                	|
+
+\*This list is not comprehensive
+
 
 ## Writing
 
 ## [AI Security Blog @ Medium](https://medium.com/@pe.stafford/)
+
+  - [I Asked AI One Question. It Gave Me a Scientific Breakthrough](https://medium.com/@pe.stafford/i-asked-ai-one-question-it-gave-me-a-scientific-breakthrough-d09c380263db)
 
   - [AI Security vs Cybersecurity: It's the Wild West Out Here (Again)](https://medium.com/@pe.stafford/ai-security-vs-cyberrsecurity-b1265b46dd40)
   
@@ -38,6 +45,12 @@
 
 
 ## Current Projects
+
+### Privacy Audit - Reverse OSINT tool
+Discover your digital footprint and who might have personal information on you. 
+
+### Cloaking tool - Obfuscate Fingerprinting
+Protect yourself from being profiled online.
 
 ### Distributed AI Model Training using exo - The Multiverse School
 
