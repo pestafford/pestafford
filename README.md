@@ -30,10 +30,6 @@
 
 \*This list is not comprehensive
 
-
-
-## **Media Publications & Writing**
-
 ## [Business Insider Feature](https://www.businessinsider.com/moved-to-bay-area-for-tech-job-unemployed-broken-system-2025-4)
 
 ## [AI Security Blog @ Medium](https://medium.com/@pe.stafford/)
