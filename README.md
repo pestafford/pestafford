@@ -45,6 +45,12 @@
 
 ## Current Projects
 
+###[AI Ambassadorship and Outreach](https://github.com/pestafford/AI_ambassadors)
+Championing AI tools and how they empower humans instead of replacing them.
+
+###[Prompt Engineering](https://github.com/pestafford/promptengineering)
+Building detailed and understandable prompts for each AI 
+
 ### Privacy Audit - Reverse OSINT tool
 Discover your digital footprint and who might have personal information on you. 
 
