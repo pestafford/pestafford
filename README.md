@@ -4,12 +4,12 @@
 ## Professional Work
 
 - AI Security Researcher & Engineer, The Multiverse School, San Francisco 2024-present
-- Technical Staff II, Production & AI Toolchain, Hacker-Fu Brands, 2024-present
-- Principal Consultant, Information Technology & Cybersecurity, 2020-present
+- Security Engineer, Production & AI Toolchain, Hacker-Fu Brands, 2024-present
+- Fractional CISO | Principal Security Consultant, 2020-present
 - Founder & CEO | Head of IT & Infrastructure @ Balanced Earth, 2015-2020
 - Founder & CEO | Head of IT & Infrastructure @ Barefoot, 2009-2015
 - Technical Support Advisor, macOS Products @ Apple 2008-2009
-- Engineer, Information Technology Support Operations @ Sony, 2006-2008
+- Information Technology Support Operations @ Sony, 2006-2008
 - IT Duty Manager, UNIX Systems @ Synovate, 2000-2004
 
 ## Education
@@ -31,7 +31,10 @@
 \*This list is not comprehensive
 
 
-## Writing
+
+## **Media Publications & Writing**
+
+## [Business Insider Feature](https://www.businessinsider.com/moved-to-bay-area-for-tech-job-unemployed-broken-system-2025-4)
 
 ## [AI Security Blog @ Medium](https://medium.com/@pe.stafford/)
 
