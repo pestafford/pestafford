@@ -1,5 +1,5 @@
 # Phil Stafford 
-### Cyber Security Professional
+### Cyber and AI Security Professional
 
 ## Professional Work
 
@@ -34,6 +34,10 @@
 
 ## [AI Security Blog @ Medium](https://medium.com/@pe.stafford/)
 
+  - [You Didn’t Sell Out — You Bought In](https://medium.com/@pe.stafford/you-didnt-sell-out-you-showed-up-f0bdd7b83132)
+
+  - [You’re Not Scared of AI, You’re Scared of Losing Yourself](https://medium.com/@pe.stafford/youre-not-scared-of-ai-you-re-scared-of-losing-yourself-ebd4d8e15ff1)
+
   - [I Asked AI One Question. It Gave Me a Scientific Breakthrough](https://medium.com/@pe.stafford/i-asked-ai-one-question-it-gave-me-a-scientific-breakthrough-d09c380263db)
 
   - [AI Security vs Cybersecurity: It's the Wild West Out Here (Again)](https://medium.com/@pe.stafford/ai-security-vs-cyberrsecurity-b1265b46dd40)
@@ -45,11 +49,20 @@
 
 ## Current Projects
 
+### AutoSAST for Model Context Protocol Servers (MCP)
+Automatic code review for third-party MCP servers - check for malicious or malformed code before you connect your AI model
+
+### PatchBrief - Automatic CVE contextualizer
+Automatically ingest CVE information with CVSS and EPSS scores through LLMs to contextualize relevance and next steps for your specific tech stack.
+
 ### [AI Ambassadorship and Outreach](https://github.com/pestafford/AI_ambassadors)
 Championing AI tools and how they empower humans instead of replacing them.
 
-### [Prompt Engineering](https://github.com/pestafford/promptengineering)
-Building detailed and understandable prompts for each AI 
+### Research Project - Alignment Faking 
+Is your AI on your side? How do you know? - Currently seeking grants
+
+### [Prompt Engineering using Agentic Swarms](https://github.com/pestafford/promptengineering/)
+Well-engineered prompts for various LLMs, with explanations and examples.
 
 ### Privacy Audit - Reverse OSINT tool
 Discover your digital footprint and who might have personal information on you. 
@@ -59,15 +72,16 @@ Protect yourself from being profiled online.
 
 ### Distributed AI Model Training using exo - The Multiverse School
 
-### Research Project - Alignment Faking 
 
-### [Home Automation Server](https://github.com/pestafford/infosec-projects/blob/main/Home-Automation.md)
+<hr>
+
+### Previous Projects
+
+
+#### [Home Automation Server](https://github.com/pestafford/infosec-projects/blob/main/Home-Automation.md)
 Proxmox server running home automation, data storage, media decoder, and more.
 
-### [Prompt Engineering using Agentic Swarms](https://github.com/pestafford/promptengineering/)
-Well-engineered prompts for various LLMs, with explanations and examples.
-
-### Autonomous AI Robots
+#### Autonomous AI Robots
 Building autonomous robots using kitbashing and Python
 
 
