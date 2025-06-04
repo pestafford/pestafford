@@ -5,7 +5,7 @@
 
 - AI Security Researcher & Engineer, The Multiverse School, San Francisco 2024-present
 - Security Engineer, Production & AI Toolchain, Hacker-Fu Brands, 2024-present
-- Fractional CISO | Principal Security Consultant, 2020-present
+- Fractional CISO | Principal Security Consultant, Singularity Systems, 2020-present
 - Founder & CEO | Head of IT & Infrastructure @ Balanced Earth, 2015-2020
 - Founder & CEO | Head of IT & Infrastructure @ Barefoot, 2009-2015
 - Technical Support Advisor, macOS Products @ Apple 2008-2009
