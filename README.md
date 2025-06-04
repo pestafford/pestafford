@@ -52,14 +52,14 @@
 ### AutoSAST for Model Context Protocol Servers (MCP)
 Automatic code review for third-party MCP servers - check for malicious or malformed code before you connect your AI model
 
+### Research Project - Organic Emergence of Alignment Faking and Deception in Agentic Systems
+Is your AI on your side? How do you know? 
+
 ### PatchBrief - Automatic CVE contextualizer
 Automatically ingest CVE information with CVSS and EPSS scores through LLMs to contextualize relevance and next steps for your specific tech stack.
 
 ### [AI Ambassadorship and Outreach](https://github.com/pestafford/AI_ambassadors)
 Championing AI tools and how they empower humans instead of replacing them.
-
-### Research Project - Alignment Faking 
-Is your AI on your side? How do you know? - Currently seeking grants
 
 ### [Prompt Engineering using Agentic Swarms](https://github.com/pestafford/promptengineering/)
 Well-engineered prompts for various LLMs, with explanations and examples.
