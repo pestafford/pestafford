@@ -49,8 +49,14 @@
 
 ## Current Projects
 
-### AutoSAST for Model Context Protocol Servers (MCP)
+### [Thinktank - Multi-Agent Swarm Using Structured Dissent to reach higher qualitative analysis](https://github.com/pestafford/thinktank-demo)
+Believers and Skeptic argue their positions while Neutrals build consensus. Produces majority answer, confidence scores, and the key minority opinions from the debate. Explainable and Transparent.
+
+#### [Thinktank use case for Model Context Protocol Servers (MCP)](https://github.com/pestafford/thinktank-demo)
 Automatic code review for third-party MCP servers - check for malicious or malformed code before you connect your AI model
+
+### Credence - Secure MCP Registry using immutable chains
+Uses Thinktank swarms to scan existing corpus of MCP servers (and new ones) to register publicly for organizations to check against. Certificate Authority for MCP.
 
 ### Research Project - Organic Emergence of Alignment Faking and Deception in Agentic Systems
 Is your AI on your side? How do you know? 
@@ -69,9 +75,6 @@ Discover your digital footprint and who might have personal information on you.
 
 ### Cloaking tool - Obfuscate Fingerprinting
 Protect yourself from being profiled online.
-
-### Distributed AI Model Training using exo - The Multiverse School
-
 
 <hr>
 
